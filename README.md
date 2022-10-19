@@ -1,4 +1,4 @@
-## Hello! Eu sou Artemisia Dutra
+## Hello! I am Artemisia Dutra
 
 <div align="center">
   <a href="https://github.com/ArtemisiaDutra">
